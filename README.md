@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Sim%20Yumi&fontSize=70&fontColor=ffffff&animation=blink&rotate=-5)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Sim%20Yumi&fontSize=70&fontColor=000000&animation=blink&rotate=-5)
 
 
 
