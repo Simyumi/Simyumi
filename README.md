@@ -3,7 +3,7 @@
 
 
 
-🍀 ## Stack 🍀
+🍀 Stack 🍀
 
 ##### These are the stacks I use
 
