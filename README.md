@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a></p>
 
 
-<div align="center">
+[![조회수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23164C03&title_bg=%234EC78D &icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simyumi&show_icons=true&theme=vue)
-</div>
+
