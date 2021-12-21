@@ -9,7 +9,7 @@
  <div align="center">
 
 
-<h3 align="center">🍀Stack🍀</h3>   
+<h3 align="center">🍀 Stack 🍀</h3>   
 
 
 <p align="center">These are the stacks I use</p>
