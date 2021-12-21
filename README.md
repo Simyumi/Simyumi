@@ -23,4 +23,6 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simyumi&show_icons=true&theme=vue)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 
