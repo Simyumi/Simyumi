@@ -22,3 +22,8 @@
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a></p>
 
+
+
+<p align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simyumi&show_icons=true&theme=radical)
+</p>
