@@ -5,7 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSimyumi&count_bg=%23265602&title_bg=%237CBD78&icon=&icon_color=%23E7E7E7&title=%F0%9F%8E%94hits&edge_flat=false&)](https://hits.seeyoufarm.com) ![GitHub followers](https://img.shields.io/github/followers/Simyumi?style=social)
 
  </div>
- 
+ <br><br>
  <div align="center">
 <br>
 <br>
@@ -32,10 +32,5 @@
 ![yumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simyumi&show_icons=true&theme=vue)
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<br><br>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Simyumi)](https://solved.ac/Simyumi)
 
 </div>
