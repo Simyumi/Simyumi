@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Sim%20Yumi&fontSize=70&fontColor=000000&animation=blink&rotate=-5)
 
 
+# _stack_
 
+##### These are the stacks I use
 
                                                                           🍀 __Stack__ 🍀
 
