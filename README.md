@@ -1,8 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Sim%20Yumi&fontSize=70&fontColor=000000&animation=blink&rotate=-5)
 
+<div align="right">
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSimyumi&count_bg=%23265602&title_bg=%237CBD78&icon=&icon_color=%23E7E7E7&title=%F0%9F%8E%94hits&edge_flat=false&)](https://hits.seeyoufarm.com)
 
+![GitHub followers](https://img.shields.io/github/followers/Simyumi?style=social)
 
-
+ </div>
+ 
  <div align="center">
 <br>
 <br>
