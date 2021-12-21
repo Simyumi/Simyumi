@@ -5,9 +5,7 @@
 
 ###### These are the stacks I use
 
-                                                                          🍀 __Stack__ 🍀
-
-                                                                 ##### These are the stacks I use
+<h3 align="center">🍀Stack🍀</h3>                                                                       
 
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
