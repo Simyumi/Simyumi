@@ -5,7 +5,6 @@
 
  
 
-BREAK!
 
 <h3 align="center">🍀Stack🍀</h3>   
 
@@ -26,5 +25,5 @@ BREAK!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simyumi&show_icons=true&theme=vue)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSimyumi&count_bg=%23265602&title_bg=%237CBD78&icon=&icon_color=%23E7E7E7&title=%F0%9F%8E%94hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSimyumi&count_bg=%23265602&title_bg=%237CBD78&icon=&icon_color=%23E7E7E7&title=%F0%9F%8E%94hits&edge_flat=false&align="center")](https://hits.seeyoufarm.com)
 
