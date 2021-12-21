@@ -25,12 +25,9 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a></p>
 
 <br><br><br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ![yumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simyumi&show_icons=true&theme=vue)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 
