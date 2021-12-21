@@ -30,8 +30,7 @@
 
 <br><br>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://github.com/Simyumi/{handle})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Simyumi)](https://solved.ac/Simyumi/)
 
 <br><br>
 
