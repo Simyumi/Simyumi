@@ -33,6 +33,9 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Simyumi)](https://solved.ac/Simyumi)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=Simyumi)](https://solved.ac/Simyumi)
+
 <br><br>
 
 
